@@ -1,1 +1,2 @@
-# Google-Colab
+# Google Colab(oratory)
+Google Colab, short for Colaboratory, is a free cloud service hosted by Google to encourage Machine Learning and Artificial Intelligence research. It allows users to write and execute Python and R code through the browser with zero configuration required, free access to GPUs and TPUs, and easy sharing. Whether you're a student, data scientist, or AI researcher, Colab can help you build and share your projects more efficiently.
